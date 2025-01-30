@@ -12,12 +12,18 @@ https://youtu.be/m_QtU5-l9_o?si=i9Lcrte83hppvemm
 This project implements a Cloud-Enabled Automatic Number Plate Recognition (ANPR) system using the ESP32-CAM for smart surveillance applications. It features real-time vehicle detection, OCR-based license plate recognition, and cloud integration for data storage and remote access, enabling applications like automated toll collection and parking management.
 
 ## Features
-Real-Time Vehicle Detection – Captures and processes vehicle images instantly.
-OCR-Based License Plate Recognition – Extracts and deciphers license plate numbers using Optical Character Recognition (OCR).
-Cloud Integration – Stores vehicle data securely in the cloud for remote access and scalability.
-Automated Data Logging – Saves recognized license plates in a cloud database.
-Remote Monitoring & Access – Enables users to access and manage data from anywhere via cloud.
-Smart Surveillance Applications – Supports automated toll collection, parking management, and restricted area monitoring.
+Real-Time Vehicle Detection – Captures and processes vehicle images instantly
+
+OCR-Based License Plate Recognition – Extracts and deciphers license plate numbers using Optical Character Recognition (OCR)
+
+Cloud Integration – Stores vehicle data securely in the cloud for remote access and scalability
+
+Automated Data Logging – Saves recognized license plates in a cloud database
+
+Remote Monitoring & Access – Enables users to access and manage data from anywhere via cloud
+
+Smart Surveillance Applications – Supports automated toll collection, parking management, and restricted area monitoring
+
 Cost-Effective & Scalable – Utilizes low-cost hardware with cloud services for flexible expansion.
 
 ## Circuit Diagram
