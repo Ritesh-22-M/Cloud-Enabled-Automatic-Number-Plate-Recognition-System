@@ -34,17 +34,26 @@ Cost-Effective & Scalable – Utilizes low-cost hardware with cloud services for
 
 ## Hardware Requirements
 ESP 32 Cam
+
 OLED display
-Push button                                             
-Breadboard                                                     
+
+Push button   
+
+Breadboard   
+
 Jumper wires
+
 Resistors
+
 5V Adapter
 
 ## Technologies
-Cloud Based API                                         
+Cloud Based API  
+
 Machine Learning algorithms
+
 WiFi Protocol
+
 HTTP protocol
 
 ## Some images of our project and results
